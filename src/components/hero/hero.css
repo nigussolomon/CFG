@@ -1,0 +1,24 @@
+.card{
+    align-items: center;
+    text-align: center;
+}
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+    margin: 10px;
+}
+
+.textHero{
+    width: 40vw;
+}
+
+.textHero h1{
+    font-size: 50px;
+}
+
+.imgHero{
+    width: 30vw;
+}
