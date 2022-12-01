@@ -53,6 +53,8 @@
 }
 
 .p-button.p-component.contactMe:focus{
+    border: 0;
+    outline: 0;
     box-shadow: 0;
     background-color: rgba(51, 34, 17, 0.767);
 
