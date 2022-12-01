@@ -3,6 +3,10 @@
     text-align: center;
 }
 
+.card img{
+    width: 100%;
+}
+
 .hero{
     display: flex;
     background-image: url('../../assets/hero_back.png');
