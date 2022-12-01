@@ -1,0 +1,24 @@
+.recent_projects{
+    padding: 10vh;
+    padding-top: 0;
+}
+
+.recent_projects h1{
+    font-size: 55px;
+    font-weight: 400;
+}
+
+.projects{
+    display: flex;
+    justify-content: space-between;
+}
+
+.project{
+    width: 25vw;
+    height: 30vh;
+}
+
+.project img{
+    width: 100%;
+    height: 100%;
+}
